@@ -1,0 +1,35 @@
+/*///// pagina-home > Nabootsing televisie bakje /////*/
+
+.kader {
+
+}
+
+.randomgetallen {
+
+}
+
+.navigeren {
+	background-color: white;
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	border-radius: 30px;
+}
+.navigeren ul {width: 380px; padding: 10px;}
+.navigeren ul li {float: left;}
+.navigeren ul li:first-child {float: none; margin-left: 142px;}
+.navigeren ul li:nth-child(2) {margin-top: 40px;}
+.navigeren ul li:nth-child(3) {padding: 20px; background-color: lightgrey; border: 2px solid grey; border-radius: 30px; margin: 15px;}
+.navigeren ul li:nth-child(4) {float: none; margin-top: 40px;}
+.navigeren ul li:nth-child(5) {margin-top: 35px; margin-left: -135px;}
+.navigeren ul li a {}
+.navigeren a img {width: 100px;}
+
+
+
+
+
+
+

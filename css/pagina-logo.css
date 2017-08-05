@@ -1,0 +1,46 @@
+/*///// pagina-logo > pulserende logo /////*/
+
+.kader {
+	margin: auto;
+	margin-top: 120px;
+	display: block;
+	width: 400px;
+}
+
+.logo {
+	margin: auto;
+	display: block;
+	width: 400px;
+	height: 400px;
+	border-radius: 120px;
+	animation: pulse 1.2s infinite;
+}
+
+@-webkit-keyframes pulse {
+	0% {
+		-webkit-box-shadow: 0 0 0 0 rgba(255,255,255, 0.5);
+	}
+	70% {
+		-webkit-box-shadow: 0 0 0 40px rgba(255,255,255, 0);
+	}
+	100% {
+		-webkit-box-shadow: 0 0 0 0 rgba(255,255,255, 0);
+	}
+}
+@keyframes pulse {
+	0% {
+		-moz-box-shadow: 0 0 0 0 rgba(255,255,255, 0.5);
+		box-shadow: 0 0 0 0 rgba(255,255,255, 0.5);
+	}
+	70% {
+		-moz-box-shadow: 0 0 0 40px rgba(255,255,255, 0);
+		box-shadow: 0 0 0 40px rgba(255,255,255, 0);
+	}
+	100% {
+		-moz-box-shadow: 0 0 0 0 rgba(255,255,255, 0);
+		box-shadow: 0 0 0 0 rgba(255,255,255, 0);
+	}
+}
+
+
+

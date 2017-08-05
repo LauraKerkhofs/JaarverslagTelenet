@@ -1,0 +1,124 @@
+/*///// PAGINA-BEDRIJFSINFO /////*/
+
+.navigeren {
+	float: right;
+	margin-top: -45px;
+}
+.navigeren ul {}
+.navigeren ul li {}
+.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 15px;}
+.navigeren ul li a {}
+.navigeren a img {width: 50px;}
+
+.kader {
+	width: 95%;
+	margin: auto;
+}
+
+.info {
+	
+}
+
+.kolom {
+	float: left;
+	width: 45%;
+	margin: 15px;
+	margin-bottom: 100px;
+	text-align: justify;
+}
+.kolom p {
+	padding: 15px;
+	padding-top: 0px;
+	line-height: 13pt;
+}
+
+.bestuur {
+	margin-top: 50px;
+	margin-bottom: 75px;
+}
+.rij ul {
+	margin: auto;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.rij li {
+	text-align: center;
+	margin: 10px;
+	letter-spacing: 1px;
+	display: inline-block;
+	cursor: pointer;
+}
+.rij p {
+	margin-top: 0px;
+	letter-spacing: 2px;
+	font-size: 10pt;
+	display: block;
+	text-align: center;
+}
+#canvasbestuur {
+	width:500px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+
+
+.aandelen {
+	margin-top: 150px;
+	margin-bottom: 350px;
+}
+#canvasaandeel {
+	width:500px;
+	margin: auto;
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+.aandelen .rij .rijkolom {
+	margin: 1%;
+	width: 48%;
+	float: left;
+}
+
+
+.adressen {
+	margin: auto;
+	margin-bottom: 550px;
+}
+.adressen #map {
+  width: 90%;
+  height: 500px;
+  margin: auto;
+  margin-top: 40px;
+}
+.adressen h3 {
+	font-family: 'Omnes Medium';
+	font-size: 14pt;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	width: 100%;
+	color: rgb(254, 195, 33);
+}
+.adressen .rij .rijkolom {
+	margin: 1%;
+	width: 48%;
+	float: left;
+}
+.adressen .rij .rijkolom h3 {
+	font-family: 'Omnes Medium';
+	font-size: 16pt;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	width: 100%;
+	color: white;
+}
+.adressen .rij .rijkolom p {
+	line-height: 17pt;
+}
+
+
+
+
+
+

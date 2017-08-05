@@ -1,0 +1,83 @@
+/*///// pagina-INKOMSTEN /////*/
+.navigeren {
+	float: right;
+	margin-top: -45px;
+}
+.navigeren ul {}
+.navigeren ul li {}
+.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 15px;}
+.navigeren ul li a {}
+.navigeren a img {width: 50px;}
+
+.kader {
+	width: 95%;
+	margin: auto;
+}
+
+.aanbod {width: 100%; margin: auto;}
+.aanbod .icons {height: 700px; width: 100%;}
+.aanbod nav {height: 500px; width: 100%;}
+.aanbod ul {height: 300px; width: 100%; }
+.aanobd ul li {height: 100px; width: 100%;}
+.aanbod ul li a {height: 50px; width: 100%}
+.aanbod ul li a img {width: 200px; margin: 15px; border-radius: 20px; animation: pulse 2s infinite;}
+@-webkit-keyframes pulse {
+	0% {-webkit-box-shadow: 0 0 0 0 rgba(255,255,255, 0.5);}
+	70% {-webkit-box-shadow: 0 0 0 20px rgba(255,255,255, 0);}
+	100% {-webkit-box-shadow: 0 0 0 0 rgba(255,255,255, 0);}
+}
+@keyframes pulse {
+	0% {-moz-box-shadow: 0 0 0 0 rgba(255,255,255, 0.5); box-shadow: 0 0 0 0 rgba(255,255,255, 0.5);}
+	70% {-moz-box-shadow: 0 0 0 20px rgba(255,255,255, 0); box-shadow: 0 0 0 20px rgba(255,255,255, 0);}
+	100% {-moz-box-shadow: 0 0 0 0 rgba(255,255,255, 0); box-shadow: 0 0 0 0 rgba(255,255,255, 0);}
+}
+
+.uitleg {
+	width: 68%;
+	float: right;
+	margin-top: -500px;
+}
+
+h4 {
+	margin-top: 35px;
+	margin-bottom: 15px;
+}
+
+.televisie {}
+.internet {}
+.telefonie {}
+.business {}
+.televisie p, .internet p, .telefonie p, .business p {
+	width: 85%;
+	margin: auto;
+	text-align: center;
+}
+
+.onzichtbaar {
+	display: none;
+}
+
+.opbrengsten {
+	width: 100%;
+	height: 500px;
+	margin-top: 300px;
+}
+.opbrengsten h3 {
+	margin-top: 50px;
+}
+
+#opbrengst2015 {
+	width:100%;
+	margin: auto;
+}
+
+#vordering {
+	width:100%;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+
+
+
+
