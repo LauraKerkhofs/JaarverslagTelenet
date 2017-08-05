@@ -25,7 +25,6 @@
 .kolom p {
 	padding: 15px;
 	padding-top: 0px;
-	line-height: 13pt;
 }
 
 .bestuur {
@@ -110,7 +109,6 @@
 	color: white;
 }
 .adressen .rij .rijkolom p {
-	line-height: 17pt;
 }
 
 
