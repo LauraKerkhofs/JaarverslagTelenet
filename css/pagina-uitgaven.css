@@ -1,13 +1,10 @@
 /*///// pagina-UITGAVEN /////*/
-.navigeren {
-	float: right;
-	margin-top: -45px;
-}
+.navigeren {float: right; margin-top: -60px;}
 .navigeren ul {}
 .navigeren ul li {}
-.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 15px;}
+.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 30px;}
 .navigeren ul li a {}
-.navigeren a img {width: 50px;}
+.navigeren a img {width: 80px;}
 
 .kader {
 	width: 95%;
@@ -25,7 +22,9 @@
 .swiper-container h2, .swiper-container h3, .swiper-container h4 {
 	width: 100%;
 	margin: 0;
+	padding: 10px;
 }
+
 .swiper-container h4 {font-size: 15pt;}
 .swiper-slide {
 	text-align: center;
@@ -53,9 +52,3 @@
 .swiper-pagination-bullet-active {
 	background: white;
 }
-
-
-
-/* rgba(255,207,64, 1) */
-
-

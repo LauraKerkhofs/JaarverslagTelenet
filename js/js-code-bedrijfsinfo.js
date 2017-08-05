@@ -41,7 +41,7 @@ window.myBar = new Chart(ctx, {
 			display: true,
 			position: 'bottom',
 			text: 'Vergoeding in duizend €',
-			fontSize:13,
+			fontSize:15,
 			fontFamily:'Omnes ExtraLight',
 			fontColor:'dimgrey',
 			padding:20
@@ -149,7 +149,7 @@ window.myBar = new Chart(ctx, {
 			display: true,
 			position: 'bottom',
 			text: 'Aantal aandelen in %',
-			fontSize:13,
+			fontSize:15,
 			fontFamily:'Omnes ExtraLight',
 			fontColor:'dimgrey',
 			padding:0

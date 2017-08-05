@@ -1,14 +1,10 @@
 /*///// pagina-RISICO /////*/
-
-.navigeren {
-	float: right;
-	margin-top: -45px;
-}
+.navigeren {float: right; margin-top: -60px;}
 .navigeren ul {}
 .navigeren ul li {}
-.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 15px;}
+.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 30px;}
 .navigeren ul li a {}
-.navigeren a img {width: 50px;}
+.navigeren a img {width: 80px;}
 
 .kader {
 	width: 95%;
@@ -23,12 +19,12 @@
 /*//risico slide class*/
 .swiper-container {
 	width: 90%;
-	height: 250px;
+	height: 280px;
 	background-color: white;
 	border-radius: 30px;
 }
 .swiper-container p {
-	width: 80%;
+	width: 90%;
 	color: rgb(254, 195, 33);
 	font-family: 'Omnes SemiBold';
 	font-size: 26pt;
@@ -60,7 +56,7 @@
 	margin-top: 80px;
 }
 .lijn3 {
-	margin-top: 450px;
+	margin-top: 600px;
 	margin-bottom: 50px;
 }
 p {
@@ -94,5 +90,6 @@ h2 {
 .kasteel img {
 	margin: auto;
 	display: block;
+	width: 350px;
 }
 

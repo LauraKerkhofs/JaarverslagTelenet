@@ -1,14 +1,10 @@
 /*///// PAGINA-BEDRIJFSINFO /////*/
-
-.navigeren {
-	float: right;
-	margin-top: -45px;
-}
+.navigeren {float: right; margin-top: -60px;}
 .navigeren ul {}
 .navigeren ul li {}
-.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 15px;}
+.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 30px;}
 .navigeren ul li a {}
-.navigeren a img {width: 50px;}
+.navigeren a img {width: 80px;}
 
 .kader {
 	width: 95%;
@@ -49,9 +45,9 @@
 	cursor: pointer;
 }
 .rij p {
-	margin-top: 0px;
+	margin-top: 10px;
 	letter-spacing: 2px;
-	font-size: 10pt;
+	font-size: 11pt;
 	display: block;
 	text-align: center;
 }
@@ -92,7 +88,7 @@
 }
 .adressen h3 {
 	font-family: 'Omnes Medium';
-	font-size: 14pt;
+	font-size: 18pt;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	text-align: center;

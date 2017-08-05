@@ -69,7 +69,7 @@ window.myBar = new Chart(ctx, {
 			display: true,
 			position: 'bottom',
 			text: 'Opbrengst in miljoen €',
-			fontSize:13,
+			fontSize:15,
 			fontFamily:'Omnes ExtraLight',
 			fontColor:'dimgrey',
 			padding:0
@@ -138,7 +138,7 @@ var barChartDataVordering = {
 	datasets: [{
 		label: 'Vlottende Handelsvorderingen',
 		data: [2727, 8596, 1972, 1468, 15996],
-		backgroundColor: ["rgba(255,220,115, 1)", "rgba(255,207,64, 1)", "rgba(255,191,0, 1)", "rgba(255,231,0, 1)", "rgba(191,155,48, 1)"],
+		backgroundColor: ["rgba(255,220,115, 1)", "rgba(255,207,64, 1)", "rgba(255,176,0, 1)", "rgba(255,231,0, 1)", "rgba(191,155,48, 1)"],
 		borderColor: 'rgb(254, 195, 33)',
 		borderWidth: 5
 	}]
@@ -154,7 +154,7 @@ window.myBar = new Chart(ctx, {
 			display: true,
 			position: 'bottom',
 			text: 'Nog te goed in duizend €',
-			fontSize:13,
+			fontSize:15,
 			fontFamily:'Omnes ExtraLight',
 			fontColor:'dimgrey',
 			padding:0,
