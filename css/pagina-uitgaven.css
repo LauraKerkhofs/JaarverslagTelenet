@@ -25,7 +25,7 @@
 	padding: 10px;
 }
 
-.swiper-container h4 {font-size: 15pt;}
+.swiper-container h4 {}
 .swiper-slide {
 	text-align: center;
 	/* Center slide text vertically */
