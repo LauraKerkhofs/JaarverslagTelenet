@@ -77,6 +77,9 @@ p {
 	width: 90%;
 }
 
+h3 {
+	padding: 5px;
+}
 h2 {
 	display: inline-block;
 }
