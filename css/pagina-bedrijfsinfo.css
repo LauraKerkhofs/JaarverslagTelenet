@@ -2,7 +2,7 @@
 .navigeren {float: right; margin-top: -60px;}
 .navigeren ul {}
 .navigeren ul li {}
-.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 30px;}
+.navigeren ul li {padding: 15px; background-color: white; border-radius: 15px; margin: 30px;}
 .navigeren ul li a {}
 .navigeren a img {width: 80px;}
 
@@ -19,7 +19,6 @@
 	float: left;
 	width: 45%;
 	margin: 15px;
-	margin-bottom: 100px;
 	text-align: justify;
 }
 .kolom p {
@@ -28,7 +27,6 @@
 }
 
 .bestuur {
-	margin-top: 50px;
 	margin-bottom: 75px;
 }
 .rij ul {
@@ -37,11 +35,9 @@
 	margin-right: 20px;
 }
 .rij li {
-	text-align: center;
-	margin: 10px;
-	letter-spacing: 1px;
+	margin: auto;
+	margin: 7px;
 	display: inline-block;
-	cursor: pointer;
 }
 .rij p {
 	margin-top: 10px;

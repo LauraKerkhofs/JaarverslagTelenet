@@ -2,7 +2,7 @@
 .navigeren {float: right; margin-top: -60px;}
 .navigeren ul {}
 .navigeren ul li {}
-.navigeren ul li {padding: 10px; background-color: white; border-radius: 15px; margin: 30px;}
+.navigeren ul li {padding: 15px; background-color: white; border-radius: 15px; margin: 30px;}
 .navigeren ul li a {}
 .navigeren a img {width: 80px;}
 
@@ -18,7 +18,7 @@
 /*//risico slide class*/
 .swiper-container {
 	width: 90%;
-	height: 280px;
+	height: 300px;
 	background-color: white;
 	border-radius: 30px;
 }
@@ -27,6 +27,7 @@
 	color: rgb(254, 195, 33);
 	font-family: 'Omnes SemiBold';
 	font-size: 26pt;
+	line-height: 26pt;
 }
 .swiper-slide {
 	/* Center slide text vertically */
