@@ -33,19 +33,16 @@
 }
 .rij ul {
 	margin: auto;
-	margin-left: 20px;
-	margin-right: 20px;
+	width: 95%;
+	column-count: 2;
 }
 .rij li {
 	margin: auto;
-	margin: 7px;
-	display: inline-block;
 }
 .rij p {
-	margin-top: 10px;
 	letter-spacing: 2px;
-	
 	display: block;
+	line-height: 120%;
 	text-align: center;
 }
 #canvasbestuur {
