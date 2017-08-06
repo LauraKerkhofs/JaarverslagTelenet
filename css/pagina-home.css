@@ -6,21 +6,21 @@
 .navigeren {
 	background-color: white;
 	width: 500px;
-	height: 500px;
+	height: 600px;
 	margin: auto;
 	margin-top: 100px;
 	margin-bottom: 100px;
 	border-radius: 40px;
 }
-.navigeren ul {width: 460px; padding: 20px;}
-.navigeren ul li {float: left;}
-.navigeren ul li:first-child {float: none; margin-left: 165px;}
+.navigeren ul {width: 470px; padding: 15px; text-align: center; }
+.navigeren ul li {float: left; width: 128px;}
+.navigeren ul li:first-child {float: none; margin-left: 170px;}
 .navigeren ul li:nth-child(2) {margin-top: 40px;}
-.navigeren ul li:nth-child(3) {padding: 20px; background-color: lightgrey; border: 2px solid grey; border-radius: 40px; margin: 15px;}
-.navigeren ul li:nth-child(4) {float: none; margin-top: 40px;}
-.navigeren ul li:nth-child(5) {margin-top: 35px; margin-left: -165px;}
-.navigeren ul li a {}
-.navigeren a img {width: 128px;}
-
+.navigeren ul li:nth-child(3) {padding: 15px; background-color: rgb(230, 230, 230); border: 2px solid grey; border-radius: 40px; margin: 25px; }
+.navigeren ul li:nth-child(4) {float: none;	margin-left: 340px; margin-top: 40px; }
+.navigeren ul li:nth-child(5) {margin-top: 45px; margin-left: -170px; }
+.navigeren ul li a { color: rgb(254, 195, 33); text-decoration: none; font-family: 'Omnes Semibold'; }
+.navigeren ul li a:visited { color: rgb(254, 195, 33); text-decoration: none; }
+.navigeren a img { width: 128px; margin-bottom: 10px; }
 
 
